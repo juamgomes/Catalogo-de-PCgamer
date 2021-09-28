@@ -15,7 +15,6 @@
 
 <h2>Requisitos para rodar o projeto</h2>
 <lu>
-    <li> Navegador <a href="http://127.0.0.1:5500/index.html" target="_blank" rel="external" >link do projeto</a>
     <li> VScode <a href="https://code.visualstudio.com/download" target="_blank" rel="external">baixar VScode</a>
 </lu>
 
