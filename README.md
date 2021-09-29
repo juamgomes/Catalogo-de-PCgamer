@@ -12,14 +12,18 @@
 <img src="media/print-do-meio3.png">
 <img src="media/print-do-fim.png">
 
+---
 
 <h2>Requisitos para rodar o projeto</h2>
 <lu>
+    <li> Qualquer navegador 
     <li> VScode <a href="https://code.visualstudio.com/download" target="_blank" rel="external">baixar VScode</a>
 </lu>
 
 ----
+<h3>Langing page pronta: https://juamgomes.github.io/catalogo-de-PCgamer/ </h2>
 
+---
 <h2>👩‍💻Tecnologias</h2>
 
 <lu>
