@@ -1,7 +1,7 @@
 <h1>Catálogo - gamer</h1>
 
 <h2>Sobre</h2>
-<p> Basicamente é um catálogo de PC gamer, e cada PC tem um nome e configuração diferente, os nomes de todas as máquinas são de Deuses gregos. 
+<p> Se trata de um catálogo de PC gamer, e cada PC tem um nome e configuração diferente, os nomes de todas as máquinas são de Deuses gregos. 
 
  ---
 
