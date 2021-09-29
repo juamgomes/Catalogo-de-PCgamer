@@ -21,7 +21,10 @@
 </lu>
 
 ----
-<h3>Langing page pronta:</h3> <a href="https://juamgomes.github.io/catalogo-de-PCgamer/" targer="_blank" rel="esternal"> </a> 
+
+<a href="https://juamgomes.github.io/catalogo-de-PCgamer/" target="_blank" rel="external">
+    Landing page pronta
+</a>
 
 ---
 <h2>👩‍💻Tecnologias</h2>
